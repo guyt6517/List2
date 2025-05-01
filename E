@@ -1,1 +1,159 @@
-e
+- Government
+- Agency
+- Federal
+- State
+- Local
+- Authority
+- Bureau
+- Commission
+- Department
+- Administration
+- Division
+- Office
+- Program
+- Public
+- Regulation
+- Security
+- Cybersecurity
+- National Security
+- Homeland Security
+- Surveillance
+- Compliance
+- Intelligence
+- Risk Management
+- Data Protection
+- Encryption
+- Threat Analysis
+- Classified Information
+- Emergency Response
+- Military
+- Armed Forces
+- Army
+- Navy
+- Air Force
+- Marines
+- Coast Guard
+- Defense
+- Special Forces
+- Reserve
+- Veteran
+- Warfare
+- Peacekeeping
+- Operations
+- Strategy
+- Logistics
+- Training
+- Deployment
+- Command
+- Tactical
+- Combat
+- Hacking
+- Exploit
+- Malware
+- Ransomware
+- Phishing
+- Spyware
+- Rootkit
+- Botnet
+- Keylogger
+- Denial of Service (DoS)
+- Distributed Denial of Service (DDoS)
+- Trojan
+- Virus
+- Worm
+- Penetration Testing
+- Zero-Day
+- Vulnerability
+- Brute Force
+- Backdoor
+- Injection
+- Cross-Site Scripting (XSS)
+- SQL Injection
+- Command Injection
+- Session Hijacking
+- Packet Sniffing
+- DNS Spoofing
+- Cyberattack
+- Cyberwarfare
+- Black Hat
+- White Hat
+- Grey Hat
+- Ethical Hacking
+- Social Engineering
+- Cryptojacking
+- Password Cracking
+- Exploit Kit
+- Honeypot
+- Cyber Threat
+- Dark Web
+- Deep Web
+- Data Breach
+- DoD
+- Department of Defense
+- Pentagon
+- FBI
+- Federal Bureau of Investigation
+- CIA
+- Central Intelligence Agency
+- NSA
+- National Security Agency
+- DIA
+- Defense Intelligence Agency
+- NRO
+- National Reconnaissance Office
+- DHS
+- Department of Homeland Security
+- Secret Service
+- Classified
+- Clearance
+- Counterintelligence
+- Espionage
+- Surveillance System
+- SIGINT
+- HUMINT
+- COMINT
+- Counterterrorism
+- Cyber Command
+- Special Operations
+- Black Ops
+- Covert
+- Surveillance Drone
+- Operation Center
+- National Guard
+- Cyber Defense
+- Threat Hunting
+- Advanced Persistent Threat (APT)
+- Cyber Espionage
+- Network Breach
+- Forensics
+- Incident Response
+- Red Team
+- Blue Team
+- Cyber Range
+- Breach Simulation
+- Threat Intelligence
+- Security Operations Center (SOC)
+- Intrusion Detection
+- Vulnerability Assessment
+- Zero Trust
+- Insider Threat
+- Nation-State Attack
+- Command and Control (C2)
+- Reconnaissance
+- Footprinting
+- OSINT
+- Cybercrime
+- Hacktivism
+- Digital Forensics
+- Network Security
+- Intrusion Prevention
+- Signals Intelligence
+- Cyber Operations
+- Encryption Breaking
+- Stealth Malware
+- Cyber Infiltration
+- Insider Access
+- Key Exchange Attack
+- Man-in-the-Middle (MITM)
+
+

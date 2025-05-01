@@ -1,5 +1,5 @@
 def read():
- o=open("e", "r")
+ o=open("E", "r")
  q=o.read()
  return q
 read()

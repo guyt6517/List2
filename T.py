@@ -8,3 +8,4 @@ def read_root():
     o=open('E', 'r')
     x=o.read()
     return x
+read_root()
